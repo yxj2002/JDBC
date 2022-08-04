@@ -8,6 +8,7 @@ package com.yxj.dao_.domain;
 public class Actor {
     private String name;
     private Integer money;
+    private int kity;
 
     public Actor() {
     }
